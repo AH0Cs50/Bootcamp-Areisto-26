@@ -9,4 +9,3 @@ const Server = http.createServer((req,res)=>{
 Server.listen(5500,()=>{
     console.log("server start listen on port 5500");
 });
-
